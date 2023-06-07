@@ -6,7 +6,7 @@
 <div align="center">
 
 <img src="https://ghchart.rshah.org/409ba5/leif160519" alt="2016rshah's Blue Github Chart" />
-[![profile](https://github-profile-trophy.vercel.app/?username=leif160519&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=leif160519&theme=algolia&column=8)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leif160519&theme=algolia&column=8" alt="leif160519" /></a>
 
 </div>
 
