@@ -5,7 +5,7 @@
 <div align="center">
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=leif160519)](https://visitor-badge.laobi.icu/badge?page_id=leif160519)
-[![](https://img.shields.io/github/stars/leif160519?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=leif160519&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=tokyonight&locale=en)[![centos-script](https://img.shields.io/github/stars/leif160519/centos-script?color=fefb7b)](https://github.com/leif160519/centos-script)
+[![](https://img.shields.io/github/stars/leif160519?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=leif160519&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=tokyonight&locale=en)[![](https://img.shields.io/github/stars/leif160519/centos-script?color=fefb7b)](https://github.com/leif160519/centos-script)
 [![](https://img.shields.io/github/followers/leif160519?color=27da6b&logo=Handshake)](https://github.com/leif160519?tab=followers)
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Leif160519%E7%9A%84blog-d7b1bf?logo=Blogger)](https://github.icu)
 
