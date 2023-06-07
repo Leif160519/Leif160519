@@ -1,13 +1,14 @@
-<img src="https://ghchart.rshah.org/409ba5/leif160519" alt="2016rshah's Blue Github Chart" />
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=leif160519)
-
-[![](https://visitor-badge.laobi.icu/badge?page_id=leif160519.leif160519)](https://visitor-badge.laobi.icu/badge?page_id=leif160519.leif160519)
+[![](https://visitor-badge.laobi.icu/badge?page_id=leif160519)](https://visitor-badge.laobi.icu/badge?page_id=leif160519)
 [![](https://img.shields.io/github/stars/leif160519?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=leif160519&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![](https://img.shields.io/github/stars/connectai-e/dingtalk-openai?color=fefb7b)](https://github.com/connectai-e/dingtalk-openai)
 [![](https://img.shields.io/github/followers/leif160519?color=27da6b&logo=Handshake)](https://github.com/leif160519?tab=followers)
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Leif160519%E7%9A%84blog-d7b1bf?logo=Blogger)](https://github.icu)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leif160519" alt="leif160519" /></a>
+<div align="center">
+
+<img src="https://ghchart.rshah.org/409ba5/leif160519" alt="2016rshah's Blue Github Chart" />
+[![profile](https://github-profile-trophy.vercel.app/?username=leif160519&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=leif160519&theme=algolia&column=8)
+
+</div>
 
 - 📝 Visit my blog [https://github.icu](https://github.icu)
 
