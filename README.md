@@ -24,6 +24,17 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- 👹 [Linux使用mutt发邮件](https://github.icu/articles/2021/06/02/1622615771782.html) 
+
+- 🦆 [Squid设置用户名密码](https://github.icu/articles/2021/11/27/1638001156905.html) 
+
+- 💡 [解决yakuake下agnoster主题乱码问题](https://github.icu/articles/2021/07/14/1626242574623.html) 
+
+- 🔭 [Linux下搜狗输入法输入双引号导致系统卡死问题解决](https://github.icu/articles/2021/06/02/1622621985024.html) 
+
+- 👍 [记一次Linux云服务器安全加固](https://github.icu/articles/2021/05/30/1622389160141.html) 
+
+- 🫣 [ESXi下Linux磁盘在线无损扩容解决方案](https://github.icu/articles/2020/06/26/1593159154169.html) 
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
