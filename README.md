@@ -1,3 +1,5 @@
+<img src="https://ghchart.rshah.org/409ba5/2016rshah" alt="2016rshah's Blue Github Chart" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leif160519&label=Profile%20views&color=0e75b6&style=flat" alt="leif160519" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leif160519" alt="leif160519" /></a> </p>
