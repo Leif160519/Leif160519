@@ -1,11 +1,8 @@
 name: Update Readme
-
 on:
   schedule:
     - cron: '*/10 * * * *'
   workflow_dispatch:
-  push:
-
 jobs:
   build:
     runs-on: ubuntu-latest
