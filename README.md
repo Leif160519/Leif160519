@@ -24,7 +24,7 @@
 </div>
 
 
-### Blogs posts
+### 🏊 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - 👹 [Linux使用mutt发邮件](https://github.icu/articles/2021/06/02/1622615771782.html) 
 
