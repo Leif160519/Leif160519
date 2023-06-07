@@ -5,7 +5,7 @@
 <div align="center">
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=leif160519)](https://visitor-badge.laobi.icu/badge?page_id=leif160519)
-[![](https://img.shields.io/github/stars/leif160519?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=leif160519&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![](https://img.shields.io/github/stars/connectai-e/dingtalk-openai?color=fefb7b)](https://github.com/connectai-e/dingtalk-openai)
+[![](https://img.shields.io/github/stars/leif160519?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=leif160519&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en)[![](https://img.shields.io/github/stars/connectai-e/dingtalk-openai?color=fefb7b)](https://github.com/connectai-e/dingtalk-openai)
 [![](https://img.shields.io/github/followers/leif160519?color=27da6b&logo=Handshake)](https://github.com/leif160519?tab=followers)
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Leif160519%E7%9A%84blog-d7b1bf?logo=Blogger)](https://github.icu)
 
@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leif160519&show_icons=true&locale=en&theme=tokyonight&hide_title=false&hide=c&hide_border=true&layout=compact" alt="leif160519" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=leif160519&show_icons=true&locale=en&theme=tokyonight&hide_title=false&hide=c&hide_border=true&layout=compact" alt="leif160519" /></p>
+
+[![](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=leif160519&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=graywhite&locale=en)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=leif160519&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=graywhite&locale=en)[![](https://github-readme-stats.vercel.app/api/top-langs/?username=leif160519&hide_title=false&hide=c&hide_border=true&layout=compact&theme=graywhite&locale=en)](https://github-readme-stats.vercel.app/api/top-langs/?username=leif160519&hide_title=false&hide=c&hide_border=true&layout=compact&theme=graywhite&locale=en)
