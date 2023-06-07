@@ -1,7 +1,6 @@
 ### 氦, 👋 !
 
-- 📝 Visit my blog [https://github.icu](https://github.icu)
-
+<h3 align="center">📝 Visit my blog https://github.icu</h3>
 
 <div align="center">
 
