@@ -44,5 +44,5 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#264](https://github.com/88250/solo/issues/264) in [88250/solo](https://github.com/88250/solo)
+1. 🗣 Commented on [#229](https://github.com/88250/solo/issues/229) in [88250/solo](https://github.com/88250/solo)
 <!--END_SECTION:activity-->
