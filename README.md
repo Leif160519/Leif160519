@@ -56,7 +56,7 @@
 |[centos-script][1]|centos下工具安装脚本，包含基础环境配置，Gitlab、Docker、LDAP、MongoDB、MySQL、RabbitMQ、Supervisor、Node、Python、zsh、rar、zabbix、k8s、prometheus、grafana等|
 |[ansible-linux][2]|使用ansible批量配置Linux，支持Debian和RedHat，包含常用软件的安装，系统配置等，支持自动化搭建prometheus监控，飞书告警，consul自动发现，loki日志采集等功能|
 |[ubuntu-script][3]|ubuntu下工具安装脚本，包含基础环境配置，nfs、samba、Docker、k8s等|
-|[docker-script][4]|Docker环境下安装各种软件的docker-compose.yml|
+|[docker-script][4]|Docker环境下安装各种软件的脚本，包含jenkins，sonarqube，jumpserver，nexus等|
 |[ansible-install-k8s][5]|使用Ansible自动化安装kubernetes集群相关组件|
 |[python-alidns][6]|使用python脚本新增，删除，更新阿里云dns解析记录|
 |[k8s-deploy][7]|kubernetes常用工具一键安装脚本|
