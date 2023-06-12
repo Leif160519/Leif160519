@@ -46,3 +46,30 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#265](https://github.com/88250/solo/issues/265) in [88250/solo](https://github.com/88250/solo)
 <!--END_SECTION:activity-->
+
+## 🏊 More Projects
+<details open>
+<summary>Click to expand ...</summary>
+|Project|Remark|
+|-------|------|
+|[centos-script][1]|tadacentos下工具安装脚本，包含基础环境配置，Gitlab、Docker、LDAP、MongoDB、MySQL、RabbitMQ、Supervisor、Node、Python、zsh、rar、zabbix、k8s、prometheus、grafana等tada|
+|[ansible-linux][2]|tada使用ansible批量配置Linux，支持Debian和RedHat，包含常用软件的安装，系统配置等，支持自动化搭建prometheus监控，飞书告警，consul自动发现，loki日志采集等功能tada|
+|[ubuntu-script][3]|tadaubuntu下工具安装脚本，包含基础环境配置，nfs、samba、Docker、k8s等tada|
+|[docker-script][4]|Docker环境下安装各种软件的docker-compose.yml|
+|[ansible-install-k8s][5]|使用Ansible自动化安装kubernetes集群相关组件|
+|[python-alidns][6]|使用python脚本新增，删除，更新阿里云dns解析记录|
+|[k8s-deploy][7]|kubernetes常用工具一键安装脚本|
+|[Books][8]|运维相关的书籍和资料-电子版|
+
+
+
+
+
+[1]: https://github.com/leif160519/centos-script
+[2]: https://github.com/leif160519/ansible-linux
+[3]: https://github.com/leif160519/ubuntu-script
+[4]: https://github.com/leif160519/docker-script
+[5]: https://github.com/leif160519/ansible-install-k8s
+[6]: https://github.com/leif160519/python-alidns
+[7]: https://github.com/leif160519/k8s-deploy
+[8]: https://github.com/leif160519/Books
