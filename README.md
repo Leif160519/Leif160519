@@ -13,10 +13,14 @@
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Leif160519%E7%9A%84blog-d7b1bf?logo=Blogger)](https://github.icu)
 
 <img src="https://ghchart.rshah.org/409ba5/leif160519" alt="leif160519's Blue Github Chart" />
-
+</div>
 ***
 
 ### 💻 Stats
+<summary>Click to expand ...</summary>
+
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leif160519&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leif160519&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leif160519&theme=tokyonight)
