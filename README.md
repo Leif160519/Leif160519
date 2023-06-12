@@ -14,9 +14,11 @@
 
 <img src="https://ghchart.rshah.org/409ba5/leif160519" alt="leif160519's Blue Github Chart" />
 </div>
+
 ***
 
 ### 💻 Stats
+<details open>
 <summary>Click to expand ...</summary>
 
 <div align="center">
