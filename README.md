@@ -47,7 +47,7 @@
 1. 🗣 Commented on [#265](https://github.com/88250/solo/issues/265) in [88250/solo](https://github.com/88250/solo)
 <!--END_SECTION:activity-->
 
-### 🏊 More Projects
+### 🔥 More Projects
 <details open>
 <summary>Click to expand ...</summary>
 
