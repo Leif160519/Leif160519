@@ -40,6 +40,7 @@
 </div>
 
 </details>
+
 ***
 
 ### 🏊 Blogs posts
