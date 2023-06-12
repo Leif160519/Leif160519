@@ -17,6 +17,12 @@
 
 [![](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=leif160519&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=tokyonight&locale=en)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=leif160519&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=tokyonight&locale=en)[![](https://github-readme-stats.vercel.app/api/top-langs/?username=leif160519&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=en)](https://github-readme-stats.vercel.app/api/top-langs/?username=leif160519&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=en)
 
+<a href="https://github.com/leif160519"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leif160519&theme=tokyonight"/></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leif160519&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leif160519&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leif160519&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leif160519&theme=tokyonight&utcOffset=8)
+
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leif160519&theme=algolia&column=8" alt="leif160519" /></a>
 
 [![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/leif160519/leif160519/master/profile-3d-contrib/profile-night-rainbow.svg)
