@@ -51,7 +51,7 @@
 <details open>
 <summary>Click to expand ...</summary>
 |Project|Remark|
-|-------|------|
+|:-----:|:----:|
 |[centos-script][1]|tadacentos下工具安装脚本，包含基础环境配置，Gitlab、Docker、LDAP、MongoDB、MySQL、RabbitMQ、Supervisor、Node、Python、zsh、rar、zabbix、k8s、prometheus、grafana等tada|
 |[ansible-linux][2]|tada使用ansible批量配置Linux，支持Debian和RedHat，包含常用软件的安装，系统配置等，支持自动化搭建prometheus监控，飞书告警，consul自动发现，loki日志采集等功能tada|
 |[ubuntu-script][3]|tadaubuntu下工具安装脚本，包含基础环境配置，nfs、samba、Docker、k8s等tada|
