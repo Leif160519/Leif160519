@@ -33,17 +33,17 @@
 
 ### 🏊 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- 👹 [如何自签发免费通配符域名证书并实现自动化----Let&#39;s Encrypt](https://github.icu/articles/2023/06/10/1686364528354.html) 
+- 👹 [年度计划](https://github.icu/my-plan) 
 
-- 🦆 [打赏](https://github.icu/reward) 
+- 🦆 [如何自签发免费通配符域名证书并实现自动化----Let&#39;s Encrypt](https://github.icu/articles/2023/06/10/1686364528354.html) 
 
-- 💡 [Linux使用mutt发邮件](https://github.icu/articles/2021/06/02/1622615771782.html) 
+- 💡 [打赏](https://github.icu/reward) 
 
-- 🔭 [Squid设置用户名密码](https://github.icu/articles/2021/11/27/1638001156905.html) 
+- 🔭 [Linux使用mutt发邮件](https://github.icu/articles/2021/06/02/1622615771782.html) 
 
-- 👍 [解决yakuake下agnoster主题乱码问题](https://github.icu/articles/2021/07/14/1626242574623.html) 
+- 👍 [Squid设置用户名密码](https://github.icu/articles/2021/11/27/1638001156905.html) 
 
-- 🫣 [Linux下搜狗输入法输入双引号导致系统卡死问题解决](https://github.icu/articles/2021/06/02/1622621985024.html) 
+- 🫣 [解决yakuake下agnoster主题乱码问题](https://github.icu/articles/2021/07/14/1626242574623.html) 
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Weekly development breakdown
