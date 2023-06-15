@@ -64,7 +64,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vim Script   1 min           █████████████░░░░░░░░░░░░   51.49 %
+Python       1 min           ████████████░░░░░░░░░░░░░   48.51 %
 ```
 
 <!--END_SECTION:waka-->
