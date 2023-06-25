@@ -46,7 +46,7 @@
 
 ### 🏊 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- 👹 [基于阿里云ECS内网穿透SSH访问家庭Linux服务器](https://github.icu/articles/2023/06/16/1686899454011.html) 
+- 👹 [如何通过云服务器内网穿透访问家庭Linux服务器](https://github.icu/articles/2023/06/16/1686899454011.html) 
 
 - 🦆 [年度计划](https://github.icu/my-plan) 
 
