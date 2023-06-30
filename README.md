@@ -19,7 +19,7 @@
 ***
 
 ### 💻 Stats
-<details open>
+<details>
 <summary>Click to expand ...</summary>
 
 <div align="center">
@@ -89,7 +89,7 @@ conf         47 mins         █▓░░░░░░░░░░░░░░░
 ***
 
 ### 🔥 More Projects
-<details open>
+<details>
 <summary>Click to expand ...</summary>
 
 |Project|Remark|
