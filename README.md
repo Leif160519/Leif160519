@@ -83,7 +83,7 @@ INI          1 hr 5 mins     █▓░░░░░░░░░░░░░░░
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#265](https://github.com/88250/solo/issues/265) in [88250/solo](https://github.com/88250/solo)
+1. ❗ Opened issue [#326](https://github.com/feiyu563/PrometheusAlert/issues/326) in [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
 <!--END_SECTION:activity-->
 
 ***
