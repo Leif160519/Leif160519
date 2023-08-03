@@ -83,7 +83,7 @@ Nginx        20 mins         ▓░░░░░░░░░░░░░░░░
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#326](https://github.com/feiyu563/PrometheusAlert/issues/326) in [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
+1. ❗ Opened issue [#133](https://github.com/starsliao/Prometheus/issues/133) in [starsliao/Prometheus](https://github.com/starsliao/Prometheus)
 <!--END_SECTION:activity-->
 
 ***
