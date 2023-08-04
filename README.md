@@ -83,7 +83,7 @@ Nginx        20 mins         █░░░░░░░░░░░░░░░░
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#133](https://github.com/starsliao/Prometheus/issues/133) in [starsliao/Prometheus](https://github.com/starsliao/Prometheus)
+1. 🗣 Commented on [#74](https://github.com/starsliao/TenSunS/issues/74#issuecomment-1664869679) in [starsliao/TenSunS](https://github.com/starsliao/TenSunS)
 <!--END_SECTION:activity-->
 
 ***
