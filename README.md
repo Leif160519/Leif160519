@@ -83,7 +83,7 @@ conf         23 mins         █▒░░░░░░░░░░░░░░░
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/starsliao/TenSunS/issues/74#issuecomment-1664869679) in [starsliao/TenSunS](https://github.com/starsliao/TenSunS)
+1. ❗ Opened issue [#134](https://github.com/starsliao/Prometheus/issues/134) in [starsliao/Prometheus](https://github.com/starsliao/Prometheus)
 <!--END_SECTION:activity-->
 
 ***
