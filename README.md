@@ -101,6 +101,7 @@ Bash        25 mins         █░░░░░░░░░░░░░░░░�
 |[ansible-install-k8s][5]|使用Ansible自动化安装kubernetes集群相关组件|
 |[python-alidns][6]|使用python脚本新增，删除，更新阿里云dns解析记录|
 |[k8s-deploy][7]|kubernetes常用工具一键安装脚本|
+|[certbot-hooks-aliyun][9]|certbot签发脚本时自动添加阿里云dns解析|
 |[Books][8]|运维相关的书籍和资料-电子版|
 
 </details>
@@ -116,3 +117,4 @@ Bash        25 mins         █░░░░░░░░░░░░░░░░�
 [6]: https://github.com/leif160519/python-alidns
 [7]: https://github.com/leif160519/k8s-deploy
 [8]: https://github.com/leif160519/Books
+[9]: https://github.com/leif160519/certbot-hooks-aliyun
