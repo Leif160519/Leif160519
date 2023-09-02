@@ -65,11 +65,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML             9 hrs 49 mins   █████████████░░░░░░░░░░░░   51.54 %
-ActionScript     1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-Groovy           1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-Markdown         1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-ActionScript 3   1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+YAML             8 hrs 57 mins   ████████████▒░░░░░░░░░░░░   49.34 %
+Groovy           2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+ActionScript     1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+Markdown         1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Text             1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
 ```
 
 <!--END_SECTION:waka-->
