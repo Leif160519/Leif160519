@@ -65,11 +65,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      2 hrs 36 mins   ████████████████████▓░░░░   82.85 %
-Bash                       11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-Nginx configuration file   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-JSON                       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Markdown                   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Other                      2 hrs 36 mins   ████████████████████▓░░░░   82.61 %
+Bash                       11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Nginx configuration file   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+JSON                       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Markdown                   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
