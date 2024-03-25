@@ -65,11 +65,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-sshdconfig                 8 mins          █████████▓░░░░░░░░░░░░░░░   39.33 %
-Other                      5 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.06 %
-Python                     3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-INI                        2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Nginx configuration file   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Other    5 mins          ███████████████▒░░░░░░░░░   61.86 %
+Python   3 mins          █████████▓░░░░░░░░░░░░░░░   38.14 %
 ```
 
 <!--END_SECTION:waka-->
