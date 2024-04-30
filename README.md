@@ -46,9 +46,9 @@
 
 ### 🏊 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- 👹 [如何通过云服务器内网穿透访问家庭Linux服务器](https://github.icu/articles/2023/06/16/1686899454011.html) 
+- 👹 [年度计划](https://github.icu/my-plan) 
 
-- 🦆 [年度计划](https://github.icu/my-plan) 
+- 🦆 [如何通过云服务器内网穿透访问家庭Linux服务器](https://github.icu/articles/2023/06/16/1686899454011.html) 
 
 - 💡 [如何自签发免费通配符域名证书并实现自动化----Let&#39;s Encrypt](https://github.icu/articles/2023/06/10/1686364528354.html) 
 
