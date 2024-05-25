@@ -83,7 +83,7 @@ hog         50 mins         █▒░░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1227](https://github.com/didi/KnowStreaming/issues/1227) in [didi/KnowStreaming](https://github.com/didi/KnowStreaming)
+1. 🗣 Commented on [#1227](https://github.com/didi/KnowStreaming/issues/1227#issuecomment-2131069713) in [didi/KnowStreaming](https://github.com/didi/KnowStreaming)
 <!--END_SECTION:activity-->
 
 ***
