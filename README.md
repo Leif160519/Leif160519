@@ -83,7 +83,7 @@ hog         50 mins         █▒░░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#134](https://github.com/starsliao/Prometheus/issues/134) in [starsliao/Prometheus](https://github.com/starsliao/Prometheus)
+1. ❗ Opened issue [#1227](https://github.com/didi/KnowStreaming/issues/1227) in [didi/KnowStreaming](https://github.com/didi/KnowStreaming)
 <!--END_SECTION:activity-->
 
 ***
