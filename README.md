@@ -83,7 +83,7 @@ Docker     16 mins         ▓░░░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1227](https://github.com/didi/KnowStreaming/issues/1227#issuecomment-2131069713) in [didi/KnowStreaming](https://github.com/didi/KnowStreaming)
+1. 🗣 Commented on [#1124](https://github.com/labring/FastGPT/issues/1124#issuecomment-2303563817) in [labring/FastGPT](https://github.com/labring/FastGPT)
 <!--END_SECTION:activity-->
 
 ***
