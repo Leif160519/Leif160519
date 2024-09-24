@@ -83,7 +83,7 @@ CSV        15 mins         █▓░░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1124](https://github.com/labring/FastGPT/issues/1124#issuecomment-2303563817) in [labring/FastGPT](https://github.com/labring/FastGPT)
+1. ❗ Opened issue [#591](https://github.com/moosefs/moosefs/issues/591) in [moosefs/moosefs](https://github.com/moosefs/moosefs)
 <!--END_SECTION:activity-->
 
 ***
