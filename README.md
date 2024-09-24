@@ -83,7 +83,7 @@ CSV        15 mins         █▓░░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#591](https://github.com/moosefs/moosefs/issues/591) in [moosefs/moosefs](https://github.com/moosefs/moosefs)
+1. 🗣 Commented on [#591](https://github.com/moosefs/moosefs/issues/591#issuecomment-2370301285) in [moosefs/moosefs](https://github.com/moosefs/moosefs)
 <!--END_SECTION:activity-->
 
 ***
