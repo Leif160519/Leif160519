@@ -65,11 +65,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       52 mins         ████████████████████▓░░░░   83.31 %
-conf       4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-Other      4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Jinja2     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
