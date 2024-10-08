@@ -79,7 +79,7 @@ No activity tracked
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#443](https://github.com/feiyu563/PrometheusAlert/issues/443) in [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
+1. 🗣 Commented on [#591](https://github.com/moosefs/moosefs/issues/591#issuecomment-2399226455) in [moosefs/moosefs](https://github.com/moosefs/moosefs)
 <!--END_SECTION:activity-->
 
 ***
