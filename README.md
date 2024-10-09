@@ -65,7 +65,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash                8 mins          █████████▒░░░░░░░░░░░░░░░   37.38 %
+YAML                7 mins          █████████░░░░░░░░░░░░░░░░   35.59 %
+Python              3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+debsources          2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Debian Sourcelist   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
