@@ -83,7 +83,7 @@ Docker                     1 hr 2 mins     ██▒░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#448](https://github.com/feiyu563/PrometheusAlert/pull/448#issuecomment-2413541684) in [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
+1. ❌ Closed PR [#449](https://github.com/feiyu563/PrometheusAlert/pull/449) in [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
 <!--END_SECTION:activity-->
 
 ***
