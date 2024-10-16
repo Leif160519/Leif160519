@@ -83,7 +83,7 @@ Docker                     1 hr 2 mins     ██▒░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#450](https://github.com/feiyu563/PrometheusAlert/pull/450) in [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
+1. ❗ Opened issue [#451](https://github.com/feiyu563/PrometheusAlert/issues/451) in [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
 <!--END_SECTION:activity-->
 
 ***
