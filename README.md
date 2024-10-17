@@ -83,7 +83,7 @@ Markdown                   54 mins         ██▒░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#451](https://github.com/feiyu563/PrometheusAlert/issues/451) in [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
+1. 🔒 Closed issue [#451](https://github.com/feiyu563/PrometheusAlert/issues/451) in [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
 <!--END_SECTION:activity-->
 
 ***
