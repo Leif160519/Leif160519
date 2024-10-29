@@ -83,7 +83,7 @@ Other        27 mins         █▓░░░░░░░░░░░░░░░
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/starsliao/TenSunS/issues/130#issuecomment-2439421240) in [starsliao/TenSunS](https://github.com/starsliao/TenSunS)
+1. ❌ Closed PR [#2](https://github.com/yilingyi/docker-mirror/pull/2) in [yilingyi/docker-mirror](https://github.com/yilingyi/docker-mirror)
 <!--END_SECTION:activity-->
 
 ***
