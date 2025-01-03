@@ -103,6 +103,7 @@ Bash     1 min           ▒░░░░░░░░░░░░░░░░░�
 |[k8s-deploy][7]|kubernetes常用工具一键安装脚本|
 |[certbot-hooks-aliyun][9]|certbot签发脚本时自动添加阿里云dns解析|
 |[Books][8]|运维相关的书籍和资料-电子版|
+|[ADUserPwdCtrlByEmpNo][10]|使用python实现通过员工工号查询ad账户信息和修改ad密码的功能，减轻运维人员的工作量|
 
 </details>
 
@@ -118,3 +119,4 @@ Bash     1 min           ▒░░░░░░░░░░░░░░░░░�
 [7]: https://github.com/leif160519/k8s-deploy
 [8]: https://github.com/leif160519/Books
 [9]: https://github.com/leif160519/certbot-hooks-aliyun
+[10]: https://github.com/leif160519/ADUserPwdCtrlByEmpNo
