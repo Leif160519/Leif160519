@@ -65,7 +65,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-conf   15 mins         █████████████████████████   100.00 %
+conf   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
