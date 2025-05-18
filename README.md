@@ -80,7 +80,7 @@ Bash    0 secs          █▒░░░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#131833](https://github.com/kubernetes/kubernetes/issues/131833) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 🔒 Closed issue [#131833](https://github.com/kubernetes/kubernetes/issues/131833) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 ***
