@@ -80,7 +80,7 @@ conf    1 min           ███████░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#131833](https://github.com/kubernetes/kubernetes/issues/131833) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 🗣 Commented on [#495](https://github.com/feiyu563/PrometheusAlert/issues/495#issuecomment-3430378578) in [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
 <!--END_SECTION:activity-->
 
 ***
