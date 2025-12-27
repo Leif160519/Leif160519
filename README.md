@@ -65,8 +65,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-conf     0 secs          █████████████████▓░░░░░░░   71.29 %
-resolv   0 secs          ███████▒░░░░░░░░░░░░░░░░░   28.71 %
+resolv   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
