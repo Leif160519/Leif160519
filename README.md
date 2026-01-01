@@ -80,7 +80,7 @@ conf    0 secs          █░░░░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#5773](https://github.com/clash-verge-rev/clash-verge-rev/issues/5773) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+1. ℹ️ Labeled issue [#5773](https://github.com/clash-verge-rev/clash-verge-rev/issues/5773) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 <!--END_SECTION:activity-->
 
 ***
