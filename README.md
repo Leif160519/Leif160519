@@ -83,7 +83,7 @@ Markdown    4 mins          █▒░░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#5773](https://github.com/clash-verge-rev/clash-verge-rev/issues/5773) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+1. 🗣 Commented on [#288](https://github.com/feiyu563/PrometheusAlert/issues/288#issuecomment-3771633066) in [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
 <!--END_SECTION:activity-->
 
 ***
