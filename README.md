@@ -82,7 +82,7 @@ modconf     0 secs                ░░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#215](https://github.com/skyhook-io/radar/issues/215) in [skyhook-io/radar](https://github.com/skyhook-io/radar)
+1. 🗣 Commented on [#215](https://github.com/skyhook-io/radar/issues/215#issuecomment-3964498861) in [skyhook-io/radar](https://github.com/skyhook-io/radar)
 <!--END_SECTION:activity-->
 
 ***
