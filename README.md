@@ -65,7 +65,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Terraform   1 hr 58 mins          █████████████████████▒░░░   85.29 %
+Other       19 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+conf        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+modconf     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
