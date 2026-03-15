@@ -83,7 +83,7 @@ Bash        13 mins               ▓░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#240](https://github.com/skyhook-io/radar/issues/240) in [skyhook-io/radar](https://github.com/skyhook-io/radar)
+1. 🗣 Commented on [#240](https://github.com/skyhook-io/radar/issues/240#issuecomment-4062609890) in [skyhook-io/radar](https://github.com/skyhook-io/radar)
 <!--END_SECTION:activity-->
 
 ***
