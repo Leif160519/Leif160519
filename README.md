@@ -83,7 +83,7 @@ JSON         12 mins               ▓░░░░░░░░░░░░░░
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#240](https://github.com/skyhook-io/radar/issues/240#issuecomment-4195673911) in [skyhook-io/radar](https://github.com/skyhook-io/radar)
+1. 🚀 Published release [0.25.0-license-collect](https://github.com/Leif160519/windows_exporter-license-backport/releases/tag/0.25.0-license) in [Leif160519/windows_exporter-license-backport](https://github.com/Leif160519/windows_exporter-license-backport)
 <!--END_SECTION:activity-->
 
 ***
