@@ -83,7 +83,7 @@ JSON           8 mins                █░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.25.0-license-collect-fix](https://github.com/Leif160519/windows_exporter-license-backport/releases/tag/0.25.0-license-fix) in [Leif160519/windows_exporter-license-backport](https://github.com/Leif160519/windows_exporter-license-backport)
+1. ℹ️ Labeled issue [#612](https://github.com/nelvko/clash-for-linux-install/issues/612) in [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)
 <!--END_SECTION:activity-->
 
 ***
