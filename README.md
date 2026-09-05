@@ -83,7 +83,7 @@ JavaScript     15 mins               █▓░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#612](https://github.com/nelvko/clash-for-linux-install/issues/612) in [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)
+1. ❗ Opened issue [#537](https://github.com/feiyu563/PrometheusAlert/issues/537) in [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
 <!--END_SECTION:activity-->
 
 ***
