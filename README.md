@@ -83,7 +83,7 @@ JavaScript     15 mins               █▓░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#537](https://github.com/feiyu563/PrometheusAlert/issues/537) in [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
+1. ❗ Opened issue [#539](https://github.com/feiyu563/PrometheusAlert/issues/539) in [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
 <!--END_SECTION:activity-->
 
 ***
