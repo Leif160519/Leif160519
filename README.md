@@ -83,7 +83,7 @@ Bash           12 mins               █▒░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#539](https://github.com/feiyu563/PrometheusAlert/issues/539) in [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
+1. ❗ Opened issue [#3](https://github.com/starsliao/PetalDesk/issues/3) in [starsliao/PetalDesk](https://github.com/starsliao/PetalDesk)
 <!--END_SECTION:activity-->
 
 ***
