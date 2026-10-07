@@ -65,8 +65,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text    15 mins               ██████████████████▒░░░░░░   72.82 %
-Other   5 mins                ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
